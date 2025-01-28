@@ -45,11 +45,11 @@ Hello! I'm **[Carlos]**, a passionate developer who loves building innovative so
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chrlwh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrlwh&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -70,14 +70,14 @@ Hello! I'm **[Carlos]**, a passionate developer who loves building innovative so
 
 ## 🌱 My Latest Projects
 
-- 🚀 **[Project 1](https://github.com/your-username/project-1):** Brief description of the project
-- 📦 **[Project 2](https://github.com/your-username/project-2):** Brief description of the project
-- 🌐 **[Project 3](https://github.com/your-username/project-3):** Brief description of the project
+- 🚀 **[Project 1](https://github.com/chrlwh/project-1):** Brief description of the project
+- 📦 **[Project 2](https://github.com/chrlwh/project-2):** Brief description of the project
+- 🌐 **[Project 3](https://github.com/chrlwh/project-3):** Brief description of the project
 
 ---
 
 ### 🏆 Fun Badges
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/your-username?style=social" alt="GitHub Followers" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.chrlwh" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/chrlwh?style=social" alt="GitHub Followers" />
 </p>
