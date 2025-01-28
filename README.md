@@ -65,7 +65,7 @@ Hello! I'm **[Carlos]**, a passionate developer who loves building innovative so
 ---
 ## 📊 Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrlwh&layout=compact&theme=radical)
 ---
 
 ## 🌱 My Latest Projects
