@@ -62,7 +62,10 @@ Hello! I'm **[Carlos]**, a passionate developer who loves building innovative so
   <a href="https://twitter.com/your-twitter" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://your-portfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" /></a>
 </p>
+---
+## 📊 Languages Used
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 ---
 
 ## 🌱 My Latest Projects
