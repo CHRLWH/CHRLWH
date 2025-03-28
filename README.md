@@ -12,10 +12,9 @@
 
 Hello! I'm **[Carlos]**, a passionate developer who loves building innovative solutions and contributing to the tech community. My interests range from **web development** to **machine learning**, and I'm always excited to tackle challenging problems.
 
-- 🔭 Currently working on: [Hackathon]
+- 🔭 Currently working on: [ImgAnalyzer]
 - 🌱 Currently learning: [C, C++, Node.js, etc..]
 - 👯 Looking to collaborate on: Open-source projects
-- 💬 Ask me about: Tech, career advice, or anything coding-related
 - ⚡ Fun fact: [Im really passionate aboute videogames!]
 
 ---
