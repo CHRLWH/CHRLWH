@@ -56,7 +56,7 @@ Hello! I'm **[Carlos]**, a passionate developer who loves building innovative so
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/carlos-hern%C3%A1ndez-275010236/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[(https://www.linkedin.com/in/carlos-hern%C3%A1ndez-275010236/)]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" /></a>
 </p>
