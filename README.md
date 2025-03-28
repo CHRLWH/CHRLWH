@@ -70,8 +70,8 @@ Hello! I'm **[Carlos]**, a passionate developer who loves building innovative so
 
 - 🚀 **[Form][(https://github.com/CHRLWH/MVVM_FormularioDeRegistro.git)]:** A form app using c# .Net and a MVVM arquitecture
 - 📦 **[For Magicians][(https://github.com/CHRLWH/ProgramaMagia)]:** A console app using C 
-- 🌐 **[Analyze imgs with rewards!][(https://github.com/chrlwh/project-3)](https://github.com/Martinm75/imgAnalyzer.git)):** A React native app using Azure AI Vision
-- 🌐 **[A Shop of books!][(https://github.com/CHRLWH/AngularLibrary)](https://github.com/Martinm75/imgAnalyzer.git)):** A React native app using Azure AI Vision
+- 🌐 **[Analyze imgs with rewards!][(https://github.com/chrlwh/project-3)]):** A React native app using Azure AI Vision
+- 🌐 **[A Shop of books!][(https://github.com/CHRLWH/AngularLibrary.git)]):** An Angular web
 
 ---
 
