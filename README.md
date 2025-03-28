@@ -68,9 +68,9 @@ Hello! I'm **[Carlos]**, a passionate developer who loves building innovative so
 
 ## 🌱 My Latest Projects
 
-- 🚀 **[Form][(https://github.com/chrlwh/project-1](https://github.com/CHRLWH/MVVM_FormularioDeRegistro.git)):** Brief description of the project
-- 📦 **[For Magicians]([https://github.com/chrlwh/project-2](https://github.com/CHRLWH/ProgramaMagia)):** Brief description of the project
-- 🌐 **[Analyze imgs with rewards!]([https://github.com/chrlwh/project-3](https://github.com/Martinm75/imgAnalyzer.git)):** Brief description of the project
+- 🚀 **[Form][(https://github.com/CHRLWH/MVVM_FormularioDeRegistro.git)]:** Brief description of the project
+- 📦 **[For Magicians][(https://github.com/CHRLWH/ProgramaMagia)]:** Brief description of the project
+- 🌐 **[Analyze imgs with rewards!][(https://github.com/chrlwh/project-3)](https://github.com/Martinm75/imgAnalyzer.git)):** Brief description of the project
 
 ---
 
