@@ -35,11 +35,11 @@ Hello! I'm **[Carlos]**, a passionate developer who loves building innovative so
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-007ACC?style=flat-square&logo=c++&logoColor=white)
 ![C#](https://img.shields.io/badge/C#-007ACC?style=flat-square&logo=c#&logoColor=white)
-![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white)
 
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react-native&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-339933?style=flat-square&logo=angular&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-092E20?style=flat-square&logo=flask&logoColor=white)
 ![AstroJs](https://img.shields.io/badge/Astro-092E20?style=flat-square&logo=astro&logoColor=white)
