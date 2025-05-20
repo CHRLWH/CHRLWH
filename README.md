@@ -33,18 +33,24 @@ Hello! I'm **[Carlos]**, a passionate developer who loves building innovative so
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-007ACC?style=flat-square&logo=c++&logoColor=white)
+![C#](https://img.shields.io/badge/C#-007ACC?style=flat-square&logo=c#&logoColor=white)
+![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white)
+
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-339933?style=flat-square&logo=angular&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-092E20?style=flat-square&logo=flask&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-38B2AC?style=flat-square&logo=azure&logoColor=white)
+![AstroJs](https://img.shields.io/badge/Astro-092E20?style=flat-square&logo=astro&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-38B2AC?style=flat-square&logo=azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-38B2AC?style=flat-square&logo=aws&logoColor=white)
 
 ---
 
