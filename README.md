@@ -13,7 +13,7 @@
 Hello! I'm **[Carlos]**, a passionate developer who loves building innovative solutions and contributing to the tech community. My interests range from **web development** to **machine learning**, and I'm always excited to tackle challenging problems.
 
 - 🔭 Currently working on: [ImgAnalyzer](https://github.com/CHRLWH/TFG.git)
-- 🌱 Currently learning: [C, C++, Node.js, etc..]
+- 🌱 Currently learning: [C, C++, AWS, TypeScript]
 - 👯 Looking to collaborate on: Open-source projects
 - ⚡ Fun fact: [Im really passionate aboute videogames!]
 
@@ -34,8 +34,7 @@ Hello! I'm **[Carlos]**, a passionate developer who loves building innovative so
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-007ACC?style=flat-square&logo=c++&logoColor=white)
-![C#](https://img.shields.io/badge/C#-007ACC?style=flat-square&logo=c#&logoColor=white)
-![](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white)
 
 
 ### Frameworks & Libraries
