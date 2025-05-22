@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-Hello! I'm **[Carlos]**, a passionate developer who loves building innovative solutions and contributing to the tech community. My interests range from **web development** to **machine learning**, and I'm always excited to tackle challenging problems.
+Hello! I'm **Carlos**, a passionate developer who loves building innovative solutions and contributing to the tech community. My interests range from **web development** to **machine learning**, and I'm always excited to tackle challenging problems.
 
 - 🔭 Currently working on: [ImgAnalyzer](https://github.com/CHRLWH/TFG.git)
 - 🌱 Currently learning: [C, C++, AWS, TypeScript]
